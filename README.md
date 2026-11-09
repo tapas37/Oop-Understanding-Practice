@@ -2,9 +2,8 @@
 A simple Remote File System simulator designed to practice core OOP principles and Git/GitHub branch workflows.
 # 📁 Remote File System Simulator (OOP Practice Project)
 
-Welcome! This repository is a practical, hands-on project designed to practice **Object-Oriented Programming (OOP) concepts** while learning **Git and GitHub workflows**. 
+Welcome! This repository is a practical and designed to practice **Object-Oriented Programming (OOP) concepts** while learning **Git and GitHub workflows**. 
 
-Instead of writing a complex cloud application, this project simulates how a **Remote File System** (like Google Drive, Dropbox, or AWS S3) handles files, connections, and network errors using clean object-oriented design.
 
 ---
 
