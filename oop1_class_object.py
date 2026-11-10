@@ -5,6 +5,7 @@
 class employee:
     # special method/constructor/magic method -> autometically execute when object is created
     def __init__(self):
+        print(id(self))
         self.id=123
         self.salary=5000
         self.designation="data scientist"
@@ -24,3 +25,13 @@ class employee:
 tapas=employee()
 tapas.travel("londo")
 tapas.presentation()
+
+
+# you can create atribute from outside as well
+tapas.name="tapas parida"
+print(tapas.name)
+
+
+# print(id(self)) = rint(id(tapas)) will be same self is nothing but this object we are creating and have the same id number for each object and self
+print(id(tapas))
+
